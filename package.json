@@ -1,0 +1,18 @@
+{
+  "name": "space.huran438.meta.core",
+  "author": "huran438",
+  "displayName": "Meta Core",
+  "description": "",
+  "unity": "2019.1",
+  "version": "2021.10.0",
+  "keywords": [
+    "meta",
+    "core",
+    "performance"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huran438/meta-core.git"
+  }
+}
